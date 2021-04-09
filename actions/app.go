@@ -14,6 +14,7 @@ import (
 	contenttype "github.com/gobuffalo/mw-contenttype"
 	"github.com/gobuffalo/x/sessions"
 	"github.com/rs/cors"
+	"github.com/gobuffalo/packr/v2"
 )
 
 // ENV is used to help switch settings based on where the
